@@ -39,6 +39,10 @@ class DetailViewController: UIViewController {
             self.configureView()
         }
     }
+    
+    func blah (){
+        
+    }
 
 
 }
